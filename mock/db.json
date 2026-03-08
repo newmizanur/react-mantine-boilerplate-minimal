@@ -1,0 +1,302 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice Carter",
+      "email": "alice@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-01-01T08:15:00.000Z",
+      "updated_at": "2026-01-01T08:15:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Brian Hall",
+      "email": "brian@company.com",
+      "role": "Manager",
+      "status": "Invited",
+      "created_at": "2026-01-02T09:20:00.000Z",
+      "updated_at": "2026-01-03T11:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "Carmen Fox",
+      "email": "carmen@company.com",
+      "role": "Viewer",
+      "status": "Disabled",
+      "created_at": "2026-01-04T10:10:00.000Z",
+      "updated_at": "2026-01-05T15:45:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Daniel Green",
+      "email": "daniel@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-01-06T07:30:00.000Z",
+      "updated_at": "2026-01-06T07:30:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Elena Price",
+      "email": "elena@company.com",
+      "role": "Viewer",
+      "status": "Active",
+      "created_at": "2026-01-07T12:00:00.000Z",
+      "updated_at": "2026-01-08T12:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Frankie Morgan",
+      "email": "frankie@company.com",
+      "role": "Manager",
+      "status": "Invited",
+      "created_at": "2026-01-09T14:00:00.000Z",
+      "updated_at": "2026-01-09T14:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "name": "Grace Nolan",
+      "email": "grace@company.com",
+      "role": "Viewer",
+      "status": "Disabled",
+      "created_at": "2026-01-10T08:55:00.000Z",
+      "updated_at": "2026-01-11T09:15:00.000Z"
+    },
+    {
+      "id": "8",
+      "name": "Hector Stone",
+      "email": "hector@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-01-12T10:05:00.000Z",
+      "updated_at": "2026-01-12T10:05:00.000Z"
+    },
+    {
+      "id": "9",
+      "name": "Ivy Rowe",
+      "email": "ivy@company.com",
+      "role": "Manager",
+      "status": "Active",
+      "created_at": "2026-01-13T16:20:00.000Z",
+      "updated_at": "2026-01-14T13:00:00.000Z"
+    },
+    {
+      "id": "10",
+      "name": "Jonas Lee",
+      "email": "jonas@company.com",
+      "role": "Viewer",
+      "status": "Invited",
+      "created_at": "2026-01-15T06:45:00.000Z",
+      "updated_at": "2026-01-15T06:45:00.000Z"
+    },
+    {
+      "id": "11",
+      "name": "Kara Brooks",
+      "email": "kara@company.com",
+      "role": "Admin",
+      "status": "Disabled",
+      "created_at": "2026-01-16T11:10:00.000Z",
+      "updated_at": "2026-01-17T09:30:00.000Z"
+    },
+    {
+      "id": "12",
+      "name": "Liam West",
+      "email": "liam@company.com",
+      "role": "Viewer",
+      "status": "Active",
+      "created_at": "2026-01-18T13:40:00.000Z",
+      "updated_at": "2026-01-18T13:40:00.000Z"
+    },
+    {
+      "id": "13",
+      "name": "Maya Quinn",
+      "email": "maya@company.com",
+      "role": "Manager",
+      "status": "Active",
+      "created_at": "2026-01-19T09:05:00.000Z",
+      "updated_at": "2026-01-19T09:05:00.000Z"
+    },
+    {
+      "id": "14",
+      "name": "Noah Patel",
+      "email": "noah@company.com",
+      "role": "Viewer",
+      "status": "Invited",
+      "created_at": "2026-01-20T10:10:00.000Z",
+      "updated_at": "2026-01-21T08:20:00.000Z"
+    },
+    {
+      "id": "15",
+      "name": "Olivia Shah",
+      "email": "olivia@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-01-21T11:30:00.000Z",
+      "updated_at": "2026-01-21T11:30:00.000Z"
+    },
+    {
+      "id": "16",
+      "name": "Parker Diaz",
+      "email": "parker@company.com",
+      "role": "Viewer",
+      "status": "Disabled",
+      "created_at": "2026-01-22T07:55:00.000Z",
+      "updated_at": "2026-01-23T12:10:00.000Z"
+    },
+    {
+      "id": "17",
+      "name": "Quinn Harper",
+      "email": "quinn@company.com",
+      "role": "Manager",
+      "status": "Invited",
+      "created_at": "2026-01-23T14:25:00.000Z",
+      "updated_at": "2026-01-23T14:25:00.000Z"
+    },
+    {
+      "id": "18",
+      "name": "Riley Barnes",
+      "email": "riley@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-01-24T09:45:00.000Z",
+      "updated_at": "2026-01-24T09:45:00.000Z"
+    },
+    {
+      "id": "19",
+      "name": "Sawyer Kim",
+      "email": "sawyer@company.com",
+      "role": "Viewer",
+      "status": "Active",
+      "created_at": "2026-01-25T13:15:00.000Z",
+      "updated_at": "2026-01-26T10:00:00.000Z"
+    },
+    {
+      "id": "20",
+      "name": "Taylor Reed",
+      "email": "taylor@company.com",
+      "role": "Manager",
+      "status": "Disabled",
+      "created_at": "2026-01-26T08:40:00.000Z",
+      "updated_at": "2026-01-27T09:05:00.000Z"
+    },
+    {
+      "id": "21",
+      "name": "Uma Collins",
+      "email": "uma@company.com",
+      "role": "Admin",
+      "status": "Invited",
+      "created_at": "2026-01-27T16:00:00.000Z",
+      "updated_at": "2026-01-27T16:00:00.000Z"
+    },
+    {
+      "id": "22",
+      "name": "Victor Long",
+      "email": "victor@company.com",
+      "role": "Viewer",
+      "status": "Active",
+      "created_at": "2026-01-28T12:20:00.000Z",
+      "updated_at": "2026-01-29T08:55:00.000Z"
+    },
+    {
+      "id": "23",
+      "name": "Willow Grant",
+      "email": "willow@company.com",
+      "role": "Manager",
+      "status": "Active",
+      "created_at": "2026-01-29T15:35:00.000Z",
+      "updated_at": "2026-01-29T15:35:00.000Z"
+    },
+    {
+      "id": "24",
+      "name": "Xavier Cole",
+      "email": "xavier@company.com",
+      "role": "Viewer",
+      "status": "Disabled",
+      "created_at": "2026-01-30T10:50:00.000Z",
+      "updated_at": "2026-01-31T11:40:00.000Z"
+    },
+    {
+      "id": "25",
+      "name": "Yara Benson",
+      "email": "yara@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-01-31T09:30:00.000Z",
+      "updated_at": "2026-01-31T09:30:00.000Z"
+    },
+    {
+      "id": "26",
+      "name": "Zane Foster",
+      "email": "zane@company.com",
+      "role": "Manager",
+      "status": "Invited",
+      "created_at": "2026-02-01T07:10:00.000Z",
+      "updated_at": "2026-02-01T07:10:00.000Z"
+    },
+    {
+      "id": "27",
+      "name": "Ariana Mills",
+      "email": "ariana@company.com",
+      "role": "Viewer",
+      "status": "Active",
+      "created_at": "2026-02-02T11:45:00.000Z",
+      "updated_at": "2026-02-03T09:00:00.000Z"
+    },
+    {
+      "id": "28",
+      "name": "Blake Owens",
+      "email": "blake@company.com",
+      "role": "Admin",
+      "status": "Disabled",
+      "created_at": "2026-02-03T14:10:00.000Z",
+      "updated_at": "2026-02-04T10:25:00.000Z"
+    },
+    {
+      "id": "29",
+      "name": "Casey Rivera",
+      "email": "casey@company.com",
+      "role": "Manager",
+      "status": "Active",
+      "created_at": "2026-02-04T13:55:00.000Z",
+      "updated_at": "2026-02-04T13:55:00.000Z"
+    },
+    {
+      "id": "30",
+      "name": "Devon Pierce",
+      "email": "devon@company.com",
+      "role": "Viewer",
+      "status": "Invited",
+      "created_at": "2026-02-05T08:35:00.000Z",
+      "updated_at": "2026-02-05T08:35:00.000Z"
+    },
+    {
+      "id": "31",
+      "name": "Emery Sutton",
+      "email": "emery@company.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-02-06T09:15:00.000Z",
+      "updated_at": "2026-02-07T07:50:00.000Z"
+    },
+    {
+      "id": "32",
+      "name": "Finley Wade",
+      "email": "finley@company.com",
+      "role": "Viewer",
+      "status": "Disabled",
+      "created_at": "2026-02-07T12:05:00.000Z",
+      "updated_at": "2026-02-07T12:05:00.000Z"
+    },
+    {
+      "id": "9b59",
+      "name": "agc",
+      "email": "ab@g.com",
+      "role": "Admin",
+      "status": "Active",
+      "created_at": "2026-03-04T16:01:43.840Z",
+      "updated_at": "2026-03-04T16:01:43.840Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
